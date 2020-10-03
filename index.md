@@ -22,7 +22,7 @@ TeamSpeak: 149.56.17.141:10029
 
 Password 404stNotFound
 
-# Unit Log
+# Unit Logs
 
 ## LOG #535 | CC - 0404 - 4040 | Rotation 92
 
